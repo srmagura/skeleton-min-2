@@ -1,5 +1,7 @@
 This demonstrates a ESM/CJS module resolution bug in Next.js.
 
+**Note:** This project's `package.json` has `"type": "module"`.
+
 ## Repro Steps
 
 1. Run `yarn`.
