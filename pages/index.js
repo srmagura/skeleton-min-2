@@ -1,5 +1,6 @@
 import Skeleton from "react-loading-skeleton";
-import "react-loading-skeleton/dist/skeleton.css";
+
+console.log("Skeleton:", Skeleton);
 
 export default function Home() {
   return <Skeleton />;
